@@ -1,4 +1,16 @@
-## Scala Basic HttpService sample using Pekko/Akka Framework, Docker Config
+## Scala HttpService sample using Pekko/Akka Framework with KeyCloak SSO Integration
+- ### KeyCloak features
+- - #### Validate Token
+- - #### Verify User Email via Code
+- - #### Get User Info, Roles, Groups by Token
+- - #### Register Users
+- - #### List Users
+- - #### List Groups
+- - #### Change User Groups
+- ### Also includes
+- - #### Mail Client
+- - #### PostgreSQL HikariCP Slick
+- - #### Json Circe.IO
 
 
 ## Installation and running
